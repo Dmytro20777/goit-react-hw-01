@@ -1,0 +1,22 @@
+.item {
+    border: solid 2px black;
+    border-radius: 5px;
+    padding: 15px;
+}
+
+.name {
+    text-align: center;
+}
+
+.status {
+    font-weight: bold;
+    margin-left: auto;
+}
+
+.online {
+    color: green;
+}
+
+.offline {
+    color: red;
+}
